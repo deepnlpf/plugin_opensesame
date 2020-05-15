@@ -1,0 +1,19 @@
+{
+    "manifest_version": "1.0.1",
+    "name": "Stanford CoreNLP",
+    "version": "",
+    "keyname": "opensesame",
+    "description": "",
+    "site": "",
+    "author": "RodriguesFAS",
+    "category": "pln",
+    "license": "MIT",
+    "is_activated": true,
+    "analysis": [{
+        "semantic": [{
+            "name": "Frame Semantic Passing",
+            "keyname": "frame_semantic_parsing",
+            "description": "Frame semantics is a linguistic theory that has been instantiated for English in the FrameNet lexicon."
+        }]
+    }]
+}
